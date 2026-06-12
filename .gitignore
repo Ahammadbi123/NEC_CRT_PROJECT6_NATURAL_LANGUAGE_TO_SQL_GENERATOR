@@ -1,0 +1,5 @@
+.env
+retail_data.db
+__pycache__/
+venv/
+.streamlit/
