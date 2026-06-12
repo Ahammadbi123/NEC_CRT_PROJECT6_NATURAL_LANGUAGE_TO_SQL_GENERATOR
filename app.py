@@ -4,6 +4,9 @@ import os
 import pandas as pd
 from groq import Groq
 from dotenv import load_dotenv
+import database
+if not os.path.exists("retail_data.db"):
+    database.create_database()
 
 # 1. Load API Key
 load_dotenv()
