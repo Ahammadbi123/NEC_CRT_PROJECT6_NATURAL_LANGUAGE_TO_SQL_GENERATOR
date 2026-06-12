@@ -2,6 +2,10 @@
 
 An advanced **Natural Language to SQL (NL-to-SQL)** generator built using **Python**, **Streamlit**, and the **Groq AI (Llama 3.3)** model. This application allows users to interact with a database using plain English, automatically converting their questions into executable SQL queries and displaying the results in a professional dashboard.
 
+
+బ్
+https://nec-crt-project6-natural-language-to-sql.onrender.com
+
 ---
 
 ## 🚀 Features
